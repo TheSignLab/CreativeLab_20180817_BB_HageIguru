@@ -1,0 +1,29 @@
+{
+  "name": "hage-iguru",
+  "version": "1.0.0",
+  "description": "NodeJs script for Hage Iguru Operation",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheSignLab/CreativeLab_20180817_BB_HageIguru.git"
+  },
+  "keywords": [
+    "bit",
+    "destroy",
+    "revenge"
+  ],
+  "author": "The Sunshine Advisor",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/TheSignLab/CreativeLab_20180817_BB_HageIguru/issues"
+  },
+  "homepage": "https://github.com/TheSignLab/CreativeLab_20180817_BB_HageIguru#readme",
+  "dependencies": {
+    "change-file-time": "^0.1.0",
+    "express": "^4.16.3",
+    "node-run-cmd": "^1.0.1"
+  }
+}
